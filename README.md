@@ -2,6 +2,9 @@
 
 This repository contains the list of project submissions developed for **SOA IDEATHON 2026 [Software Editions]**. Each entry below corresponds to a problem statement from the official SOA Ideathon 2026 workbook, along with the GitHub repository link for the respective project.
 
+### 🎯 Objective
+Aim to complete 25+ software-related problem statements before 25 August 2026.
+
 ---
 
 ## 📋 Problem Statements & Project Links
