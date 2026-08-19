@@ -14,8 +14,6 @@ This repository contains the list of project submissions developed for **SOA IDE
 | SOAIDEATHON-S4 | Inclusive Adaptive Coaching Platform for Athletes with Disabilities | [Repo Link](https://github.com/QuantumSandbox/AdaptAthlete) | Fitness & Sports |
 | SOAIDEATHON-S5 | Community Sports Facility Utilization, Safety and Energy Optimization System | [Repo Link](https://github.com/QuantumSandbox/SportSync) | Fitness & Sports |
 | SOAIDEATHON-S6 | Edge-AI Earth Observation Platform for Hyperlocal Flood, Crop and Heat-Stress Alerts | [Repo Link](https://github.com/QuantumSandbox/Aakash-Watch) | Space Technology |
-| SOAIDEATHON-S7 | Provenance-Aware AI Archive for India's Oral Histories and Endangered Languages | [Repo Link](#) | Heritage & Culture |
 | SOAIDEATHON-S8 | Authenticity and Fair-Trade Digital Passport for Traditional Crafts | [Repo Link](https://github.com/QuantumSandbox/Karigar-Passport) | Heritage & Culture |
-| SOAIDEATHON-S9 | AI-Assisted Restoration and Scholarly Reconstruction of Damaged Manuscripts and Inscriptions | [Repo Link](#) | Heritage & Culture |
 
 ---
