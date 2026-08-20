@@ -18,6 +18,6 @@ This repository contains the list of project submissions developed for **SOA IDE
 | SOAIDEATHON-S5 | Community Sports Facility Utilization, Safety and Energy Optimization System | [Repo Link](https://github.com/QuantumSandbox/SportSync) | Fitness & Sports |
 | SOAIDEATHON-S6 | Edge-AI Earth Observation Platform for Hyperlocal Flood, Crop and Heat-Stress Alerts | [Repo Link](https://github.com/QuantumSandbox/Aakash-Watch) | Space Technology |
 | SOAIDEATHON-S8 | Authenticity and Fair-Trade Digital Passport for Traditional Crafts | [Repo Link](https://github.com/QuantumSandbox/Karigar-Passport) | Heritage & Culture |
-| SOAIDEATHON-S9 | AI-Assisted Restoration and Scholarly Reconstruction of Damaged Manuscripts and Inscriptions | [Repo Link]([https://github.com/QuantumSandbox/Karigar-Passport](https://github.com/QuantumSandbox/Manuscript-Restoration)) | Heritage & Culture |
+| SOAIDEATHON-S9 | AI-Assisted Restoration and Scholarly Reconstruction of Damaged Manuscripts and Inscriptions | [Repo Link]([https://github.com/QuantumSandbox/Karigar-Passport](https://github.com/QuantumSandbox/Manuscript-Restoration) | Heritage & Culture |
 
 ---
