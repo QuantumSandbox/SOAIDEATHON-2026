@@ -11,7 +11,7 @@ This repository contains the list of project submissions developed for **SOA IDE
 
 | Problem Statement ID | Title | Link | Theme |
 |---|---|---|---|
-| SOAIDEATHON-S1 | Human-in-the-Loop Agentic AI for Autonomous Institutional Service Delivery | [Repo Link](https://github.com/QuantumSandbox/Human-in-the-loop) | Smart Automation |
+| SOAIDEATHON-S1 | Human-in-the-Loop Agentic AI for Autonomous Institutional Service Delivery | [Repo Link](https://github.com/QuantumSandbox/AURA-Autonomus_University_Request_Assistant ) | Smart Automation |
 | SOAIDEATHON-S2 | Multilingual Regulatory Document Intelligence and Compliance Workflow Engine | [Repo Link](https://github.com/QuantumSandbox/Multilingual-compliance-engine) | Smart Automation |
 | SOAIDEATHON-S3 | Self-Healing AI Operations Controller for Campus Digital and Physical Infrastructure | [Repo Link](https://github.com/QuantumSandbox/CAMPUS-AIOps) | Smart Automation |
 | SOAIDEATHON-S4 | Inclusive Adaptive Coaching Platform for Athletes with Disabilities | [Repo Link](https://github.com/QuantumSandbox/AdaptAthlete) | Fitness & Sports |
