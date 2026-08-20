@@ -25,5 +25,6 @@ This repository contains the list of project submissions developed for **SOA IDE
 | SOAIDEATHON-S12 | Climate-Resilient Farm Digital Twin with Explainable Crop, Water and Input Advisory | [Repo Link](https://github.com/QuantumSandbox/Farm-Twin) | Agriculture, FoodTech & Rural Development |
 | SOAIDEATHON-S13 | Explainable EV Battery Health, Safety and SecondLife Digital Passport | [Repo Link](https://github.com/QuantumSandbox/EVx) | Smart Vehicles |
 | SOAIDEATHON-S14 | AI-Optimized Rural LastMile Network for Farm Produce, Medicines and Essential Goods | [Repo Link](https://github.com/QuantumSandbox/RuralConnect) | Transportation & Logistics |
+| SOAIDEATHON-S15 | Digital Twin for PublicTransport Disruptions, Crowd Flow and Emergency Rerouting | [Repo Link](https://github.com/QuantumSandbox/TwinTransit) | Transportation & Logistics |
 
 ---
