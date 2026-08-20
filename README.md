@@ -22,6 +22,7 @@ This repository contains the list of project submissions developed for **SOA IDE
 | SOAIDEATHON-S9 | AI-Assisted Restoration and Scholarly Reconstruction of Damaged Manuscripts and Inscriptions | [Repo Link](https://github.com/QuantumSandbox/Manuscript-Restoration) | Heritage & Culture |
 | SOAIDEATHON-S10 | Federated Community Health Early-Warning System for Emerging Disease Clusters | [Repo Link](https://github.com/QuantumSandbox/HealthWatch) | MedTech/BioTech/HealthTech |
 | SOAIDEATHON-S11 | Explainable Antimicrobial Stewardship and Prescription Safety Assistant | [Repo Link](https://github.com/QuantumSandbox/Antimicrobial-Stewardship) | MedTech/BioTech/HealthTech |
+| SOAIDEATHON-S13 | Explainable EV Battery Health, Safety and SecondLife Digital Passport | [Repo Link](https://github.com/QuantumSandbox/EVx) | Smart Vehicles |
 | SOAIDEATHON-S14 | AI-Optimized Rural LastMile Network for Farm Produce, Medicines and Essential Goods | [Repo Link](https://github.com/QuantumSandbox/RuralConnect) | Transportation & Logistics |
 
 ---
