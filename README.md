@@ -26,5 +26,6 @@ This repository contains the list of project submissions developed for **SOA IDE
 | SOAIDEATHON-S13 | Explainable EV Battery Health, Safety and SecondLife Digital Passport | [Repo Link](https://github.com/QuantumSandbox/EVx) | Smart Vehicles |
 | SOAIDEATHON-S14 | AI-Optimized Rural LastMile Network for Farm Produce, Medicines and Essential Goods | [Repo Link](https://github.com/QuantumSandbox/RuralConnect) | Transportation & Logistics |
 | SOAIDEATHON-S15 | Digital Twin for PublicTransport Disruptions, Crowd Flow and Emergency Rerouting | [Repo Link](https://github.com/QuantumSandbox/TwinTransit) | Transportation & Logistics |
+| SOAIDEATHON-S16 | Carbon-Aware Reverse Logistics and Reuse Marketplace for Institutional Assets | [Repo Link](https://github.com/QuantumSandbox/GreenCycle) | Transportation & Logistics |
 
 ---
