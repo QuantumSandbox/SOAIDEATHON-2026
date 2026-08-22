@@ -31,5 +31,6 @@ This repository contains the list of project submissions developed for **SOA IDE
 | SOAIDEATHON-S18 | Hyperlocal Urban Heat and Air-Quality Digital Twin for Cooling Intervention Planning | [Repo Link](https://github.com/QuantumSandbox/CoolTwin) | Clean & Green Technology |
 | SOAIDEATHON-S19 | AI-Based Visitor Safety, Crowd and Incident Coordination for Eco and Pilgrimage Sites | [Repo Link](https://github.com/QuantumSandbox/SafeYatra) | Tourism |
 | SOAIDEATHON-S20 | Accessible Journey Planner with Real-Time Barrier and Assistance Mapping | [Repo Link](https://github.com/QuantumSandbox/Accessible-Journey) | Tourism |
+| SOAIDEATHON-S21 | Regenerative Tourism Impact Ledger for Local Communities and Natural Assets | [Repo Link](https://github.com/QuantumSandbox/TerraLedger) | Tourism |
 
 ---
