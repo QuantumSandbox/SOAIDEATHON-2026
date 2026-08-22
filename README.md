@@ -28,7 +28,7 @@ This repository contains the list of project submissions developed for **SOA IDE
 | SOAIDEATHON-S15 | Digital Twin for PublicTransport Disruptions, Crowd Flow and Emergency Rerouting | [Repo Link](https://github.com/QuantumSandbox/TwinTransit) | Transportation & Logistics |
 | SOAIDEATHON-S16 | Carbon-Aware Reverse Logistics and Reuse Marketplace for Institutional Assets | [Repo Link](https://github.com/QuantumSandbox/GreenCycle) | Transportation & Logistics |
 | SOAIDEATHON-S17 | AI-Based Multimodal Freight Consolidation and Cold-Chain Risk Prediction for MSME and Agri Logistics | [Repo Link](https://github.com/QuantumSandbox/FreightCold) | Transportation & Logistics |
-| SOAIDEATHON-S18 | Hyperlocal Urban Heat and Air-Quality Digital Twin for Cooling Intervention Planning | [Repo Link]() | Clean & Green Technology |
+| SOAIDEATHON-S18 | Hyperlocal Urban Heat and Air-Quality Digital Twin for Cooling Intervention Planning | [Repo Link](https://github.com/QuantumSandbox/CoolTwin) | Clean & Green Technology |
 | SOAIDEATHON-S19 | AI-Based Visitor Safety, Crowd and Incident Coordination for Eco and Pilgrimage Sites | [Repo Link](https://github.com/QuantumSandbox/SafeYatra) | Tourism |
 
 ---
